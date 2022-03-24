@@ -1,6 +1,9 @@
+//Import logo is rendering a file image on the screen
 import logo from './logo.svg';
 import './App.css';
 
+
+//App Function is returning a line of instruaction with a hyperlink to "Learn React"
 function App() {
   return (
     <div className="App">
